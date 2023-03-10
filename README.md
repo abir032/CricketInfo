@@ -6,3 +6,4 @@ It lets you look for players by name and gives you a lot of information about th
 It shows the ICC team ranking for TEST, ODI, T20 (MEN)
 
 ![image](https://user-images.githubusercontent.com/81462079/224300492-05c9f9e7-f752-46ff-b803-8aaacc955f35.png)
+![image](https://user-images.githubusercontent.com/81462079/224300587-077c10bd-b6cd-40cd-8767-1790c43ffa31.png)
